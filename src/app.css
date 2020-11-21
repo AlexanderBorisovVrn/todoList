@@ -1,0 +1,8 @@
+.app {
+  display: flex;
+  flex-flow: column ;
+  width: 30rem;
+ min-height: 400px;
+  justify-content:start;
+  align-items: flex-end;
+}
